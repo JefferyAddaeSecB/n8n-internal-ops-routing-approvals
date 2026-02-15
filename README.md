@@ -24,4 +24,4 @@ Policy-first request routing with AI escalation risk review, SLA-aware approvals
 5. Run a manual execution test before enabling schedule/webhook traffic.
 
 ## Live Demo
-- https://jeffery-addae-portfolio-web.vercel.app/projects/internal-ops-request-routing-approvals
+- https://jefferyaddae.it.com/projects/internal-ops-request-routing-approvals
